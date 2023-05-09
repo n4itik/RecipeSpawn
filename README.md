@@ -30,7 +30,7 @@ The application analyzes food images uploaded by the user and suggests recipes b
 
 ## Screenshots
 
-![Screenshot 1](img_to_recipe/static/img/ss.png)
+![Screenshot 1](/img_to_recipe/static/images/screenshot/ss.png)
 
 ## Contributing
 
