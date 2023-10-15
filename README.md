@@ -16,10 +16,6 @@ The application analyzes food images uploaded by the user and suggests recipes b
 4. Wait for the model to generate the recipe (this may take a few seconds).
 5. View the recipe ingredients and instructions on the results page.
 
-## Screenshots
+## Screenshot
 
 ![Screenshot 1](/img_to_recipe/static/images/screenshot/ss.png)
-
-## Contributing
-
-If you would like to contribute to this project, feel free to submit a pull request or open an issue.
